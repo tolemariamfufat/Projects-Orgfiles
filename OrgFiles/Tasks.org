@@ -1,0 +1,40 @@
+* Inbox
+
+** DONE Update Journal Capture Template
+  [2022-09-16 Fri 18:10]
+  [[file:~/.emacs.d/init.el][file:~/.emacs.d/init.el]]
+  
+
+* Active
+** TODO Receive House Rent
+SCHEDULED: <2022-09-30 Fri+1M>
+
+** DONE Idir Payment
+SCHEDULED: <2022-09-18 Sun 07:00+1m>
+** DONE Deadline
+SCHEDULED: <2022-09-18 Sun 07:30+1m>
+** DONE Ayantu (MA) Deadline for Term Paper Submission (Malleen Baruu Barsiisuu Afaan Oromoo: Toftaa Caacculee Dubbisuutiin)
+DEADLINE: <2022-10-01 Sat>
+** DONE Lalise (BA) Deadline for Term Paper Submission (Dhamsagaafi Dhamjecha)
+DEADLINE: <2022-10-01 Sat>
+** DONE Insurance sticker deadline
+DEADLINE: <2022-09-28 Wed+1y>
+** NEXT Second year and Graduating Class registration
+SCHEDULED: <2022-11-01 Tue>
+** NEXT Deadline
+DEADLINE: <2022-11-02 Wed>
+** NEXT New and Postgraduate registration
+SCHEDULED: <2022-10-31 Mon>
+** NEXT Beginning of Academic Calendar for 2022/2023
+SCHEDULED: <2022-11-03 Thu>
+** TODO MA Thesis Submission
+DEADLINE: <2022-12-15 Thu 09:00> SCHEDULED: <2022-12-14 Wed 09:00>
+** TODO MA Thesis Defence
+SCHEDULED: <2022-12-30 Fri 09:00-18:00>
+** TODO MA 2022/2023 Graduates Advisor Assignment
+SCHEDULED: <2022-09-24 Sat>
+
+
+* Backlog
+
+
