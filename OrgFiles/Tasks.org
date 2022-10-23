@@ -31,10 +31,13 @@ SCHEDULED: <2022-11-03 Thu>
 DEADLINE: <2022-12-15 Thu 09:00> SCHEDULED: <2022-12-14 Wed 09:00>
 ** TODO MA Thesis Defence
 SCHEDULED: <2022-12-30 Fri 09:00-18:00>
-** TODO MA 2022/2023 Graduates Advisor Assignment
+** DONE MA 2022/2023 Graduates Advisor Assignment
 SCHEDULED: <2022-09-24 Sat>
-** TODO staff duity report
-SCHEDULED: <2022-10-24 Mon>
+
+
+
+
+
 
 
 
